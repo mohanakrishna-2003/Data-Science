@@ -1,2 +1,2 @@
 # Data-Science
-The learnings of an Data Science Enthusiast.
+The learnings of a Data Science Enthusiast.
